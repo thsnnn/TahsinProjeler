@@ -12,9 +12,9 @@ namespace GenericsIntro
         {
             items = new T[0];
         }
-        public void Add(T item)
+           public void Add(T item)
         {
-            T[] tempArray = items; // temp geçici dizi, newlenince referans
+            T[] tempArray = items; // tempArray geçici dizi, newlenince referans
                                    // kaybolmasın diye
             items = new T[items.Length + 1]; // Dizinin eleman
                                              // sayısını bir arttırdık
@@ -27,5 +27,5 @@ namespace GenericsIntro
             items[items.Length - 1] = item; // Elemanı şuan ekledik
 
         }
-    }
+    } 
 }

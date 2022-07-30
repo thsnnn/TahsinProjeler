@@ -6,7 +6,7 @@ namespace OOP1
 {
     class ProductManeger //Ürünle ilgili opersyonlar içerir,Ekle,Sil,Güncelle vs
     {
-        public void Add(Product product  )
+        public void Add(Product product)
         {
             Console.WriteLine(product.ProductName + " eklendi.");
 

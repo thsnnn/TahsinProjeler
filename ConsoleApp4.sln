@@ -13,13 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{60B67E7E-3341-4289-9C8F-D2045E9EC164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Denemeler", "Denemeler\Denemeler.csproj", "{5F0C7ED1-CE81-4C1D-AC41-42C39C6709E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Denemeler", "Denemeler\Denemeler.csproj", "{5F0C7ED1-CE81-4C1D-AC41-42C39C6709E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{DD737B59-9461-4823-9180-875F58F862E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{DD737B59-9461-4823-9180-875F58F862E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{23AF1220-9E46-4ED5-A67B-9876E31BF4CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{23AF1220-9E46-4ED5-A67B-9876E31BF4CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{ADBD426B-8AD3-4319-AB0E-8F5A556B2BA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{ADBD426B-8AD3-4319-AB0E-8F5A556B2BA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetodDemo", "ClassMetodDemo\ClassMetodDemo.csproj", "{882222C5-DD88-460E-B895-08AF037B6F48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{48A13FF6-FAFA-407A-880D-B96A28CB6483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{2A87588E-9D30-4A02-BB5C-90F14074FF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A4437B3A-23BF-4947-B3D3-89EAF03DF7AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{ADBD426B-8AD3-4319-AB0E-8F5A556B2BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBD426B-8AD3-4319-AB0E-8F5A556B2BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADBD426B-8AD3-4319-AB0E-8F5A556B2BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882222C5-DD88-460E-B895-08AF037B6F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882222C5-DD88-460E-B895-08AF037B6F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882222C5-DD88-460E-B895-08AF037B6F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882222C5-DD88-460E-B895-08AF037B6F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A13FF6-FAFA-407A-880D-B96A28CB6483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A13FF6-FAFA-407A-880D-B96A28CB6483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A13FF6-FAFA-407A-880D-B96A28CB6483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A13FF6-FAFA-407A-880D-B96A28CB6483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A87588E-9D30-4A02-BB5C-90F14074FF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A87588E-9D30-4A02-BB5C-90F14074FF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A87588E-9D30-4A02-BB5C-90F14074FF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A87588E-9D30-4A02-BB5C-90F14074FF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4437B3A-23BF-4947-B3D3-89EAF03DF7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4437B3A-23BF-4947-B3D3-89EAF03DF7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4437B3A-23BF-4947-B3D3-89EAF03DF7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4437B3A-23BF-4947-B3D3-89EAF03DF7AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

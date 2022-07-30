@@ -17,6 +17,16 @@ namespace OOP1
 
         public int UnitInStock { get; set; }
 
+        public Product(int ıd, int categoryId, string productName, double unitPricey, int unitInStock)
+        {
+            this.Id = Id;
+            this.CategoryId = CategoryId;
+            this.ProductName = ProductName;
+            this.UnitPricey = UnitPricey;
+            this.UnitInStock = UnitInStock;
+
+                
+        }
 
         
 
